@@ -44,3 +44,4 @@ try {
   console.error('Помилка при читанні або парсингу файлу:', error.message);
   process.exit(1);
 }
+//qq
